@@ -1,0 +1,153 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/test.tmx",
+    "expandedProjectPaths": [
+        "assets/Terrain",
+        "assets/Terrain/Platforms",
+        "assets/Textures",
+        ".",
+        "assets"
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "assets/Terrain/Platforms/Mossy - BackgroundDecoration.tsx": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.25
+        },
+        "assets/Terrain/Platforms/Mossy - Decorations&Hazards.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "assets/Terrain/Platforms/Mossy - FloatingPlatforms.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "assets/Terrain/Platforms/Mossy - MossyHills.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "assets/Terrain/Platforms/Mossy - TileSet.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "assets/Terrain/Platforms/lvl1.tmx": {
+            "scale": 0.3076171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8196.87619047619,
+                "y": 1024
+            }
+        },
+        "assets/Terrain/Platforms/lvl2.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.0625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 7656,
+                "y": 5328
+            }
+        },
+        "assets/Terrain/Platforms/lvl3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 584.6666666666665,
+                "y": 370.66666666666663
+            }
+        },
+        "assets/Terrain/Platforms/безымянный.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2870,
+                "y": 1600
+            }
+        },
+        "assets/Textures/Idle.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "assets/Textures/Spyke_chill.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "assets/Textures/Terrain (16x16).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "assets/Textures/background.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Textures/first_lvl.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/test.tmx": {
+            "scale": 0.8092812500000001,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 797.621346101865,
+                "y": 222.41958528014834
+            }
+        },
+        "assets/безымянный.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 857.3333333333333,
+                "y": 454
+            }
+        }
+    },
+    "last.imagePath": "P:/Java/Game/assets/Free/Traps/Spike Head",
+    "map.fixedSize": true,
+    "map.height": 57,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "assets/безымянный.tmx",
+        "assets/Textures/Terrain (16x16).tsx",
+        "assets/Textures/first_lvl.tsx",
+        "assets/Textures/Idle.tsx",
+        "assets/test.tmx"
+    ],
+    "project": "Terrain.tiled-project",
+    "recentFiles": [
+        "assets/безымянный.tmx",
+        "assets/Textures/Terrain (16x16).tsx",
+        "assets/Textures/first_lvl.tsx",
+        "assets/Textures/Idle.tsx",
+        "assets/test.tmx",
+        "assets/Textures/Spyke_chill.tsx",
+        "assets/Textures/background.tsx",
+        "assets/Terrain/Platforms/Mossy - TileSet.tsx",
+        "assets/Terrain/Platforms/Mossy - Decorations&Hazards.tsx",
+        "assets/Terrain/Platforms/Mossy - FloatingPlatforms.tsx",
+        "assets/Terrain/Platforms/Mossy - BackgroundDecoration.tsx",
+        "assets/Terrain/Platforms/Mossy - MossyHills.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
