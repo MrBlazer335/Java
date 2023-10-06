@@ -1,0 +1,22 @@
+{
+  "block.nintendo_rober.drug_store": "Drug Trading",
+  "block.nintendo_rober.security_block": "Security Block",
+
+
+  "item.nintendo_rober.nintendo_switch": "Nintendo Switch",
+  "item.nintendo_rober.nintendo_cocaine": "Cocaine",
+  "item.nintendo_rober.nintendo_marijuana_cookie": "Weed Cookie",
+  "item.nintendo_rober.nintendo_heroin": "Heroin",
+  "item.nintendo_rober.casino_pass": "Casino Pass",
+"item.nintendo_rober.empire_of_toads_disc": "Empire Of Toads",
+  "item.nintendo_rober.empire_of_toads_disc.desc": "Empire Of Toads",
+
+
+
+
+  "itemGroup.nintendo_rober": "Drugs and Casino from Nintendo",
+
+
+  "entity.minecraft.villager.nintendo_rober.drug_seller": "Drug Seller",
+  "entity.minecraft.villager.nintendo_rober.security_guy": "Security Guy"
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:the_nether",
+    "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+        "lakes": false,
+        "features": true,
+        "layers": [
+          {
+            "block": "minecraft:red_wool",
+            "height": 12
+          },
+          {
+            "block": "minecraft:blue_wool",
+            "height": 11
+          }
+        ],
+        "structure_overrides": [
+          "minecraft:villages"
+        ]
+      }
+    }
+  }

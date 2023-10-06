@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "*/*",
+    "/?/",
+    "*/*"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:emerald_block"
+    },
+    "?": {
+      "item": "minecraft:nether_star"
+    },
+    "/": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "nintendo_rober:empire_of_toads_disc"
+  }
+}

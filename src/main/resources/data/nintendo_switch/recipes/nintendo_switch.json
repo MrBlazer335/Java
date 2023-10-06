@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "*+*",
+    "-/-",
+    "*-*"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:diamond_block"
+    },
+    "+": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "-": {
+      "item": "minecraft:emerald"
+    },
+    "/": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "nintendo_rober:nintendo_switch"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "drug_villager_working": {
+    "sounds": [
+      {
+        "name": "nintendo_rober:drug_villager_working_sound"
+      }
+    ]
+  },
+  "empire_of_toads": {
+    "sounds": [
+      {
+        "name": "nintendo_rober:empire_of_toads1",
+        "stream": true
+      }
+    ]
+  }
+}
